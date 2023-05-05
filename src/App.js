@@ -18,6 +18,10 @@ function App() {
           <Route path="/contact" element={<Footer />} />
         </Routes>
       </div>
+      {/* <Home />
+      <About />
+      <Services />
+      <Footer/> */}
     </>
   )
 }
